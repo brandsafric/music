@@ -1,6 +1,8 @@
 # **Music**
 ----------------------
-Music app built with Laravel and Angular
+Music app built with Laravel and Angular.
+
+[Video preivew](https://vimeo.com/415697050)
 
 ### **Setup**
 -------------
